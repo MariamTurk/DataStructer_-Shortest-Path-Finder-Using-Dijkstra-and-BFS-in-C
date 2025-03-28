@@ -1,10 +1,5 @@
 # 🗺️ Shortest Path Finder Using Dijkstra and BFS in C
 
-### 👤 Author: Mariam Turk  
- 
-
-
-
 ## 📚 Overview
 
 This C program implements a **shortest path finding system** between cities using:
